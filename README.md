@@ -1,4 +1,6 @@
 
+![signmeup_logo](images/signmeup.png)
+
 # SignMeUp: Real-time recognition of American Sign Language
 
 This project aims to develop a machine learning model that recognizes American Sign Language (ASL) signs in videos. The model is designed to be integrated into an innovative learning app that enables users to practice ASL signs using their phone camera and receive instant feedback. This makes learning ASL more accessible, particularly for the hearing parents of deaf children who may not be familiar with ASL.
