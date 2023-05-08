@@ -1,5 +1,5 @@
 
-![signmeup_logo](images/signmeup.png | width=100)  
+<img src="https://github.com/kifrie/Capstone_Project_SignMeUp/blob/main/images/signmeup.png" width="48">
 
 # SignMeUp: Real-time recognition of American Sign Language
 
