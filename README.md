@@ -1,5 +1,5 @@
 
-![signmeup_logo](images/signmeup.png)  
+![signmeup_logo](images/signmeup.png | width=100)  
 
 # SignMeUp: Real-time recognition of American Sign Language
 
